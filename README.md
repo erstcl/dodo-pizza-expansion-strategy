@@ -6,7 +6,7 @@
 
 **[VIEW FINAL PRESENTATION](dodo_final.pdf)**
 
-**University project**: Business Studio (Central University)  
+**Strategy case study**: field research, unit economics, and growth experiments
 **Team**: Ruslan Huseinov (Lead), Kirill Uvarov (Marketing Researcher), Arseny Sushkov (Market Analyst), Egor Starikov (Designer & Field Researcher)  
 **Timeline**: September–December 2024
 
@@ -67,9 +67,13 @@ Our team proposed and validated five data-driven initiatives combining customer 
 
 ## Overall Impact
 
-**Combined effect**: +10.63% company-wide revenue growth  
+**Combined modeled effect**: +10.63% company-wide revenue growth
 **Investment range**: ₽20M-₽858M per initiative  
-**Payback periods**: 2-3.5 months
+**Modeled payback periods**: 2-3.5 months
+
+These figures are scenario-model outputs based on the assumptions in the financial
+workbooks and field research. They are not measured results from a company-wide
+rollout.
 
 ---
 
@@ -136,7 +140,8 @@ Our team proposed and validated five data-driven initiatives combining customer 
 
 ---
 
-## About the Course
+## Scope
 
-Business Studio is a semester-long project-based course at Central University where teams analyze real companies and propose data-driven growth strategies. Teams conduct iterative research, validate hypotheses through field work, and present actionable recommendations backed by financial models.
-
+This is an independent strategic case study based on public information, field
+observations, customer interviews, and scenario modeling. Dodo Pizza did not sponsor
+or validate the projected financial results.
